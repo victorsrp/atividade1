@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Página do Victor</title>
+            
+   
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+            li{
+                
+                font-size: 11px;
+                color: #666666
+         
+            }
+            body{
+                background-color: #ffffff;
+                text-align: center;
+                font-family: arial;
+            }
+            p {
+          
+         margin-right: 0.8px;
+            }
+          table{ margin-right:auto; margin-left:auto; }
+          
+            
+        </style>
+    </head>
+    <body>
+        <header>
+            
+            <h1>Página do Victor</h1><br>
+            <h1>História</h1><br>
+            <a href="Pagina 1.html">Aluno Lucas Marques</a>
+        </header>
+        <p><hr size="10" color="#009900"><blockquote> 
+            <br></p>Não tenho uma história engraçada para contar, porém, decidi falar sobre o porque de escolher<br>
+            esse curso. Sempre gostei de tecnologia e era muito curioso á respeito. Percebi que gostava de programação<br>
+            quando entrei na minha primeira faculdade (ciência da computação), mas o que mais me despertou interesse<br>
+            
+        
+        
+        
+        
+        </blockquote> 
+        
+    <hr size="10" color="#009900"><br>
+        
+    <h1>Meus Hobbies</h1>
+    
+    <ol>
+        <li><h2>Jogar Video game</h2></li>
+        <li><h2>Corrida de rua</h2></li>
+        <li><h2>Sair com os amigos</h2></li>
+        <li><h2>Netflix</h2></li>
+    </ol><br>
+     
+    <table><hr size="10" color="#009900">
+        
+    <h1>O que eu sonho na vida ?</h1>
+    
+    <blockquote>Sonho em trabalhar numa grande industria de tecnologia mais voltada para  microcontroladores</blockquote>
+     
+    <table><hr size="10" color="#009900">
+        
+    <h1>O que eu tenho feito para alcançar ?</h1>
+
+    <blockquote>Me formar nos cursos que estou cursando e especializar na área de eletrônica.</blockquote>
+    
+    <table><hr size="10" color="#009900">
+    
+    </body>
+
+</html>
