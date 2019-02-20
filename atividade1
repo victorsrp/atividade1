@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>  Histórias De amigos</title>
+            
+   
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+            li{
+                
+                font-size: 11px;
+                color: #666666
+         
+            }
+            body{
+                background-color: #9999ff;
+                text-align: center;
+                font-family: arial;
+            }
+            p {
+          
+         margin-right: 0.8px;
+            }
+          table{ margin-right:auto; margin-left:auto; }
+          
+            
+        </style>
+    </head>
+    <body>
+        <header>
+             
+        <h1>Historias de Infancia</h1><br>
+       <a href="Pagina 2.html">Aluno Victor Pereira</a>
+        </header>
+        <p><hr size="5" color="#000000"><blockquote> 
+            Decidi contar nesse texto não uma historia engraçada, mas porque eu escolhi entrar na FATEC<br>
+            mais especificadamente no curso de GTI, eu me formei no ensino medio em 2014, em 2015 ja fazia estagio<br>
+            no cartorio em Lorena, convivi com muitas situações em se aplicava na area juridica, logo ja gostei muito<br>
+            achei que ja teria me encontrado na area de Direito, mas antes disso em 2013 fiz um curso tecnico de TI<br>
+            na ETEC de Lorena, até porque sempre gostei muito da area, mas apesar disso tudo, não me gostei muito<br>
+            do curso porque não tinha tempo pra estudar porque tinha que estudar para a escola, e trabalhar e depois<br>
+            ir para o curso, então ja ia bem cansado então conseguia me dedicar meu maximo.<br>
+            Mas conforme o tempo foi passando enquanto eu fazia direito fui percenbendo que só tinha entrado no curso<br>
+            porque era meu primeiro trabalho e não porque eu realmente gostava, mas mesmo assim insisti em tentar<br>
+            terminar o curso, mas depois 3 três anos já queria nem ir para o curso, não gostava de nenhuma materia<br>
+            nao tinha motivos para continuar, foi ai que um dia um amigo me falou do curso de GTI da FATEC que era muito<br>
+            bom e eu iria gostar, foi então decidi trancar o curso de direito e pretar o vestibular, em 2018 começei <br>
+            o primeiro semestre, até agora estou gostando muito do curso e realmente agora me indentifiquei e percebi que<br>
+            é realmente isso que quero para minha vida.<br></p> </blockquote> 
+        
+        <hr size="5" color="#000000"><br>
+    <h1>Meus Hobbies</h1>
+    
+    <ol>
+        <li>Jogar Video game</li>
+        <li>Ler noticias de games</li>
+        <li>Escutar musica</li>
+        <li>Netflix</li>
+    </ol><br>
+     
+    <table><hr size="5" color="#000000">
+        <h3>Areás que penso em trabalhar em TI</h3>
+        <thead>
+            <tr>
+            <th>Areás</th>
+            <th>Areás</th>
+            <th>Areás</th>
+            <th>Areás</th>
+            <th>Areás</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+            <td>Programção WEB</td>
+            <td>Tecnico de Hardware</td>
+            <td>Programçao C/C++</td>
+            <td>Abrir loja PC's Gamers</td>
+            <td>Home office</td>
+            </tr>   
+        </tbody>    
+        <br>
+        
+        <br>
+    </body>
+    
+</html>
